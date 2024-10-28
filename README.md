@@ -1,2 +1,8 @@
 # c21-26-n-nocode
-App compra y venta de criptomonedas
+CryptoNexus- App compra y venta de criptomonedas
+
+Integrantes:
+Marga Rodriguez (Proyect Manager)
+Mary Robles (Diseño)
+Emanuel Fernández (Desarrollo)
+
