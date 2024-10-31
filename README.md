@@ -2,7 +2,7 @@
 CryptoNexus- App compra y venta de criptomonedas
 
 Integrantes:
-Marga Rodriguez (Proyect Manager)
+Marga Rodriguez de Hernández (Proyect Manager)
 Mary Robles (Diseño)
 Emanuel Fernández (Desarrollo)
 
