@@ -1,5 +1,5 @@
 # c21-62-n-nocode
-CryptoNexus- App compra y venta de criptomonedas
+CriptoNexus- App compra y venta de criptomonedas
 
 Integrantes:
 Marga Rodriguez de Hernández (Proyect Manager)
